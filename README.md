@@ -1,6 +1,6 @@
 # Unweighted-4.0-GPA-Scale-to-Percentage-Grades
 
-This script converts scores with Unweighted 4.0 GPA Scale to Percentage Grades in the desired Excel Workbook.
+This script converts scores with Unweighted 4.0 GPA Scale to Percentage Grades in the desired Excel Workbook using the equalities published by Turkish Higher Education Council as its source (https://oyp.yok.gov.tr/Documents/Anasayfa/4lukSistem.pdf)
 
 Note:
 •	The script utilizes the pandas library. Therefore, make sure you have the pandas library installed.
